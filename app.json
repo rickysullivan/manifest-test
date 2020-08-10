@@ -5,8 +5,7 @@
     "name": "manifest-test",
     "slug": "manifest-test",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/a2/88/b1/a288b195-e666-a25a-aaba-5867c97ffd43/AppIcon-Release-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.png",
+    "assetBundlePatterns": ["**/*"]
   }
 }
