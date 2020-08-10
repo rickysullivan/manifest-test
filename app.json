@@ -1,0 +1,12 @@
+{
+  "name": "manifest-test",
+  "displayName": "manifest-test",
+  "expo": {
+    "name": "manifest-test",
+    "slug": "manifest-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
